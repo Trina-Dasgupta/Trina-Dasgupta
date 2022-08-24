@@ -3,7 +3,7 @@
 ---
 
 ## I'm Trina Dasgupta, and Full-stack web Developer, Javascript Enthusiast, MERN stack Developer, Who Loves Building Things In Javascript. 🔥 👨🏽‍💻🏅
-! 
+ 
 
 - I'm looking forward to learn great things.
 - There are already many answers, I am looking for questions.
