@@ -11,7 +11,7 @@
 - Always looking for learning.
 
 
-### Yes, I am a MERN Stack Developer.
+### Yes, I am active on Linkedin.
 
 
 
