@@ -7,11 +7,11 @@
 
 - I'm looking forward to learn great things.
 - There are already many answers, I am looking for questions.
-- I am aligned towards an entrepreneurial journey.
-- Always looking for collaborators.
+- I am keen to know new technologies
+- Always looking for learning.
 
 
-### Yes, I am socially very active:
+### Yes, I am a MERN Stack Developer.
 
 
 
@@ -40,4 +40,4 @@
 ---
 
 
-[linkedin]: https://www.linkedin.com/in/trina-dasgupta-b9834a156/
+[linkedin]: https://www.linkedin.com/in/trina-dasgupta-b9636224a/
