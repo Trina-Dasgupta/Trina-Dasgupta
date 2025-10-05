@@ -2,7 +2,7 @@
 
 ---
 
-## I'm Trina Dasgupta, and Full-stack web Developer, Javascript Enthusiast, MERN stack Developer, Who Loves Building Things In Javascript. 🔥 👨🏽‍💻🏅
+## I'm Trina Dasgupta, and Full-stack web Developer, Javascript Enthusiast, MERN stack Developer, Who Loves Building Things In Javascript.Now currently my focus is on Generative AI 🔥 👨🏽‍💻🏅
  
 
 - I'm looking forward to learn great things.
