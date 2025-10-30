@@ -1,7 +1,3 @@
-### Hey there just another human 👋
-
----
-
 ## I'm Trina Dasgupta, and Full-stack web Developer, Javascript Enthusiast, MERN stack Developer, Who Loves Building Things In Javascript.Now currently my focus is on Generative AI 🔥 👨🏽‍💻🏅
  
 
