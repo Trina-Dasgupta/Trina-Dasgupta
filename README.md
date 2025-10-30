@@ -1,39 +1,54 @@
-## I'm Trina Dasgupta, and Full-stack web Developer, Javascript Enthusiast, MERN stack Developer, Who Loves Building Things In Javascript.Now currently my focus is on Generative AI 🔥 👨🏽‍💻🏅
- 
+# Hi, I'm Trina Dasgupta 👋
 
-- I'm looking forward to learn great things.
-- There are already many answers, I am looking for questions.
-- I am keen to know new technologies
-- Always looking for learning.
+I'm a passionate **Full-Stack Developer** and **Self-Taught AI Enthusiast**, currently transitioning into the world of **Generative AI**. With experience in **full-stack web development** (React, Node.js, MongoDB, etc.) and **digital marketing**, I now focus on building intelligent, **AI-driven applications**. I'm particularly interested in **LangChain**, **LangGraph**, **LangSmith**, and creating **RAG (Retrieval Augmented Generation)** applications to solve real-world problems using AI agents and Python.
 
+🚀 **Currently Learning**:
+- How to integrate **Generative AI** with full-stack applications.
+- Exploring **machine learning** and **AI tools** to create innovative, intelligent solutions.
 
-### Yes, I am active on Linkedin.
+🔍 **What I’m Interested In**:
+- Building AI-driven solutions using **LangChain**, **LangGraph**, and **LangSmith**.
+- Crafting **RAG applications** that leverage cutting-edge AI agents and APIs.
+- Innovating with **Vector Databases** like **FAISS**, **ChromaDB**, **Pinecone**, and **Datastack** for AI model integrations.
+  
+---
 
+## Skills & Technologies
 
+### **Generative AI**
+- **LangChain** | **LangGraph** | **LangSmith** | **AI Agents** | **RAG Applications**
+  
+### **Backend Technologies**
+- **Node.js** | **NestJS** | **FastAPI** | **REST APIs** (AI integration)
 
-[<img align="left" alt="Trina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### **Databases for AI**
+- **MongoDB** | **MySQL** | **FAISS** | **ChromaDB** | **Pinecone** | **Datastack**
 
+### **Languages**
+- **JavaScript** | **Python** (focused on AI/ML frameworks)
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+### **Frontend for AI Interfaces**
+- **React** | **Next.js** (using AI-driven UIs, generative content)
 
 ---
 
+## My Portfolio & Projects
 
-[linkedin]: https://www.linkedin.com/in/trina-dasgupta-b9636224a/
+💻 **Portfolio Website**: [trinadasgupta.in](https://trinadasgupta.in)
+
+🔗 **GitHub**: [Trina-Dasgupta GitHub](https://github.com/Trina-Dasgupta?tab=repositories)
+
+---
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/trina-dasgupta-b9636224a/)
+
+
+---
+
+### Fun Fact:
+I love building things in **JavaScript**, and I'm constantly experimenting with new **AI technologies** to create applications that **change the way we interact with data**.
+
+---
+
+### Let's Build Something Amazing Together! 🌍
